@@ -6,5 +6,5 @@ Stella strategy users can borrow funds from Stella lending pools at **0% borrow 
 
 Stella protocol consists of 2 main parts:
 
-1. **Stella Lending**: Lenders can lend their tokens (eg. USDC, ETH, DAI, ...). to earn shared yield from strategy users.
-2. **Stella Strategies**: Strategy users can execute leveraged strategies on our whitelisted strategies by borrowing tokens from Stella Lending.
+1. **Stella Lend**: Lenders can lend their tokens (eg. USDC, ETH, DAI, ...). to earn shared yield from strategy users.
+2. **Stella Strategies**: Strategy users can execute leveraged strategies on our whitelisted strategies by borrowing tokens from Stella Lend.
